@@ -45,6 +45,7 @@ header nav ul li a {
     background-image: url("https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80");
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
 }
 
 .about-me {
@@ -84,3 +85,9 @@ header nav ul li a {
     text-align: center;
 }
 
+.work-title {
+    text-align: center;
+}
+
+/* all you have to do is go to nice websites and inspect the stying you like then 
+just ype it up in this css file */
